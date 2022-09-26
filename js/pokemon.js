@@ -15,15 +15,3 @@ function draw() {
     fill("white");
     circle(655, 363, 50)
 }
-
-/*function mousePressed(){
-    if(color === "blue"){
-        color = "green";
-        fill(color);
-        circle(750, 375, 100)
-    }else{
-        color = "blue";
-        fill(color);
-        circle(750, 375, 100)   
-    }
-}*/
